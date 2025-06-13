@@ -72,13 +72,6 @@ Apasionado por crear aplicaciones web eficientes que optimicen procesos y mejore
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tu.correo@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/uriel-cesar-sandoval-766972314) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](urielcesarsandoval10@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
