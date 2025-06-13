@@ -28,7 +28,7 @@ Apasionado por crear aplicaciones web eficientes que optimicen procesos y mejore
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/>PHP
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/><br/>Laravel
+      <img src="https://laravel.com/img/favicon/favicon.ico" width="40" height="40" alt="Laravel"/><br/>Laravel
     </td>
   </tr>
   <tr>
