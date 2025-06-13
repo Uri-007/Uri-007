@@ -72,6 +72,9 @@ Apasionado por crear aplicaciones web eficientes que optimicen procesos y mejore
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/uriel-cesar-sandoval-766972314) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](urielcesarsandoval10@gmail.com)
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-cesar-sandoval-766972314) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urielcesarsandoval10@gmail.com)
+
 
