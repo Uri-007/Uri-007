@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Uriel Cesar Sandoval**
 
 **💻 Ingeniero en Desarrollo y Gestión de Software**  
-Apasionado por crear aplicaciones web eficientes que optimicen procesos y mejoren la experiencia del usuario.
+Apasionado por el desarrollo fullstack, construyendo aplicaciones web integrales que combinan un backend robusto con interfaces dinámicas para optimizar procesos y mejorar la experiencia del usuario
 
 ---
 
