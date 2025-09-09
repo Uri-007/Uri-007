@@ -24,7 +24,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>React.js
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/><br/>React Native
+      <img src="(https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/nextjs/logo-291886093470.jpeg?v=1684765419030)" width="40" height="40" alt="Nextjs"/><br/>Next.js
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br/>Vue.js
