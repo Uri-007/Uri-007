@@ -84,10 +84,10 @@
 
 ## 🎯 Sobre mí
 
-🔭 Actualmente enfocado en desarrollo web frontend con React.js, Next.js, TypeScript y JavaScript.
-🌱 Siempre aprendiendo y explorando nuevas tecnologías como MERN y Laravel para aportar una visión integral.
-🏆 Certificaciones en Java, React.js, Next.js y desarrollo web.
-⚡ Disfruto crear interfaces modernas, accesibles y soluciones que marcan la diferencia.
+-🔭 Actualmente enfocado en desarrollo web frontend con React.js, Next.js, TypeScript y JavaScript.
+-🌱 Siempre aprendiendo y explorando nuevas tecnologías como MERN y Laravel para aportar una visión integral.
+-🏆 Certificaciones en Java, React.js, Next.js y desarrollo web.
+-⚡ Disfruto crear interfaces modernas, accesibles y soluciones que marcan la diferencia.
 
 ---
 
