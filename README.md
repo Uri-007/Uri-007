@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy **Uriel Cesar Sandoval**
 
 **💻 Ingeniero en Desarrollo y Gestión de Software**  
-Apasionado por el desarrollo fullstack, construyendo aplicaciones web integrales que combinan un backend robusto con interfaces dinámicas para optimizar procesos y mejorar la experiencia del usuario
+✨ Mi fortaleza está en React.js, Next.js, JavaScript y TypeScript, donde disfruto diseñar y construir interfaces modernas, accesibles y de alto rendimiento.
+⚡ También tengo experiencia en MERN, PHP y Laravel, lo que me permite integrarme en proyectos fullstack y aportar soluciones completas.
+🔍 Me apasiona la innovación, la resolución de problemas y el aprendizaje continuo, siempre buscando superar retos y aportar valor real en cada proyecto.
 
 ---
 
