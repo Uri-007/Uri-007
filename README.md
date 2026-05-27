@@ -34,7 +34,7 @@
 const uriel = {
   role: "Frontend Engineer",
   location: "México 🇲🇽",
-  focus: ["React", "TypeScript", "Next.js"],
+  focus: ["React", "TypeScript", "Next.js", "Node.js"],
   currentJob: "Expide tu Factura",
   passions: ["UI/UX", "Clean Code", "Performance"],
   goal: "Construir interfaces que sean tan rápidas como hermosas",
@@ -108,34 +108,6 @@ const uriel = {
 | 🎓 TSU en Desarrollo de Software Multiplataforma | UTHuejot | 2020 – 2022 |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Uri-007&show_icons=true&theme=transparent&title_color=64b5f6&icon_color=64b5f6&text_color=90caf9&bg_color=0d2444&border_color=1565c0&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uri-007&layout=compact&theme=transparent&title_color=64b5f6&text_color=90caf9&bg_color=0d2444&border_color=1565c0&hide_border=false&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uri-007&theme=transparent&ring=64b5f6&fire=64b5f6&currStreakLabel=64b5f6&sideLabels=90caf9&dates=90caf9&background=0d2444&border=1565c0" />
-
-</div>
-
----
-
-## 🏆 Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uri-007&theme=nord&column=4&no-frame=true&no-bg=true" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d2444&height=80&section=footer" />
